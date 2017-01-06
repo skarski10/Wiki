@@ -1,0 +1,48 @@
+#welcome {
+  background-color: lightgrey;
+}
+.blue {
+  background-color: lightblue;
+  border: solid black 1px;
+  padding: 4px;
+}
+
+.green {
+  background-color: lightgreen;
+  border: solid black 1px;
+  padding: 4px;
+}
+
+.col-md-7 {
+  border: solid lightgreen 0px;
+  padding-left: 20px;
+  padding-right: 2px;
+  padding-top: 2px;
+
+}
+
+.col-md-5 {
+  border: solid lightblue 0px;
+  padding-left: 2px;
+  padding-right: 0px;
+  padding-top: 2px;
+
+}
+
+#green {
+  border: solid lightgreen 1px;
+  padding: 2px;
+}
+
+#blue {
+  border: solid lightblue 1px;
+  padding: 2px 2px 42px 2px;
+}
+
+.col-md-2 {
+  background-color: lightgray;
+}
+
+.welcome {
+  padding-left: 20px;
+}
